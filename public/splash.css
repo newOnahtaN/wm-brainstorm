@@ -37,7 +37,7 @@ body {
 }
 
 #screen-card {
-  background: url(/images/screenshot.png);
+  background: url(/images/sc.png);
   background-position: center;
   background-size: cover;
   margin-left: 10vw;
